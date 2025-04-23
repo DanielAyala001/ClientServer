@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\ClientServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\Makefile||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|solutionrelative:ClientServer\\Makefile||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\SimpleServer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|solutionrelative:ClientServer\\SimpleServer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|solutionrelative:ClientServer\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\SimpleClient.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|solutionrelative:ClientServer\\SimpleClient.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\shared.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9377687B-9426-F367-7AC7-4D6DB6394BC5}|ClientServer\\ClientServer.vcxproj|solutionrelative:ClientServer\\shared.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\main.c",
+              "RelativeDocumentMoniker": "ClientServer\\main.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\main.c",
+              "RelativeToolTip": "ClientServer\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T18:25:45.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shared.h",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\shared.h",
+              "RelativeDocumentMoniker": "ClientServer\\shared.h",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\shared.h",
+              "RelativeToolTip": "ClientServer\\shared.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T18:25:04.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\Makefile",
+              "RelativeDocumentMoniker": "ClientServer\\Makefile",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\Makefile",
+              "RelativeToolTip": "ClientServer\\Makefile",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T18:18:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleClient.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\SimpleClient.c",
+              "RelativeDocumentMoniker": "ClientServer\\SimpleClient.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\SimpleClient.c",
+              "RelativeToolTip": "ClientServer\\SimpleClient.c",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T17:59:16.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleServer.c",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\SimpleServer.c",
+              "RelativeDocumentMoniker": "ClientServer\\SimpleServer.c",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\ClientServer\\ClientServer\\SimpleServer.c",
+              "RelativeToolTip": "ClientServer\\SimpleServer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-14T17:58:22.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
